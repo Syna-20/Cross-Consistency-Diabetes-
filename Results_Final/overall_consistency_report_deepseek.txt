@@ -1,0 +1,12 @@
+OVERALL CONSISTENCY REPORT
+=========================
+Date/Time: 20250801_001303
+Model: llama 3.3
+Number of consistency runs per question: 3
+
+Summary for SWEET level:
+  Accuracy: 96.43%
+  Self-Consistency: 98.21%
+  Total tokens: 34803.99999999999
+  Avg tokens per question: 621.50
+

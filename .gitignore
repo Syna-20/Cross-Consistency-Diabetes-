@@ -1,0 +1,5 @@
+.env
+.env.example
+mistral_logs*
+SYNA_Q*
+.history

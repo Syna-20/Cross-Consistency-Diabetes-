@@ -1,0 +1,12 @@
+OVERALL CONSISTENCY REPORT
+=========================
+Date/Time: 20250731_234051
+Model: mistral-7b
+Number of consistency runs per question: 3
+
+Summary for SWEET level:
+  Accuracy: 83.93%
+  Self-Consistency: 94.64%
+  Total tokens: 35249.33333333332
+  Avg tokens per question: 629.45
+
